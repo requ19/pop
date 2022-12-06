@@ -7,6 +7,6 @@ console.log(a, b)
 const loer = [];
 
 loer[0] = prompt('what is your name?', '');
-loer[1] = prompt('what is your name?', '');
-loer[2] = prompt('what is your name?', '');
+loer[1] = prompt('what is your last name?', '');
+loer[2] = prompt('how old are you?', '');
 
