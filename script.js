@@ -4,6 +4,9 @@ let b = 1006;
 console.log(a, b)
 
 
-const loer = prompt('Как дела?', '');
-console.log(loer)
+const loer = [];
+
+loer[0] = prompt('what is your name?', '');
+loer[1] = prompt('what is your name?', '');
+loer[2] = prompt('what is your name?', '');
 
